@@ -15,4 +15,4 @@ I help small and mid-sized businesses adopt AI on data they can trust, and I run
 
 **Stack:** Claude Code · OpenAI Codex · Python · SQL Server · dbt · TypeScript/Node · Cloudflare Workers
 
-[LinkedIn](https://www.linkedin.com/in/maurospigolon/) · mauro.spigo@gmail.com · Mendoza, Argentina (GMT-3)
+Contact: [LinkedIn](https://www.linkedin.com/in/maurospigolon/) · Mendoza, Argentina (GMT-3)
