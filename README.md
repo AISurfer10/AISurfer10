@@ -1,22 +1,18 @@
 # Mauro Spigolon
 
-**AI Enablement & agent operations.** I make AI land on foundations a business
-can trust — and I run AI-agent-built systems in production without lying to
-myself about whether they work.
+**AI Enablement Lead · Co-Founder & Head of AI Strategy at [Tamiz](https://tamiz.ai/en/)**
 
-- 🔭 Current: AI Enablement Lead at a 40-person multi-branch company
-  (data → logic → metrics → automation → AI, in that order).
-- 🤖 3+ years training and evaluating frontier models: Senior AI Data Trainer
-  @ Invisible Technologies (~20 RLHF campaigns), Expert AI Trainer @ Pareto.AI,
-  Generalist AI Trainer @ Abaka AI.
-- 🛠️ Solo-built: an autonomous commerce pipeline (ads → landing → checkout →
-  delivery) written by Claude Code, adversarially reviewed by OpenAI Codex,
-  guarded by 450+ tests and an incident-driven verification process.
-- 📖 The method is public: [agent-ops-verification](https://github.com/AISurfer10/agent-ops-verification)
-  — verification doctrine, incident book with the `blindness` field, QA tools
-  for AI-generated output.
+I help small and mid-sized businesses adopt AI on data they can trust, and I run AI-agent-built systems in production without lying to myself about whether they work.
 
-**Stack**: Claude Code · OpenAI Codex · TypeScript/Node · Cloudflare Workers ·
-Meta Ads API · MercadoPago · ffmpeg · ElevenLabs · Veo/Flow · Vitest
+- **Now:** AI Enablement Lead at a 40-person multi-branch company. Data, logic, metrics, automation, then AI, in that order.
+- **Tamiz:** AI agents on top of the systems a company already runs. Read-only, no migration.
+- **Model evaluation:** nearly 4 years training and evaluating frontier models at Invisible Technologies (~20 RLHF campaigns), Pareto.AI, Abaka AI and micro1.
+- **Agent operations:** I built an autonomous commerce pipeline with Claude Code, reviewed by a second model before every deploy.
 
-📫 **mauro.spigo@gmail.com** · [LinkedIn](https://www.linkedin.com/in/maurospigolon/) · Mendoza, Argentina (GMT-3)
+**Open source**
+- [agent-ops-verification](https://github.com/AISurfer10/agent-ops-verification): verification doctrine, an incident book with a `blindness` field, and QA tools for AI-generated output.
+- [mutgate](https://github.com/AISurfer10/mutgate): a mutation tester that proves it measures before it scores.
+
+**Stack:** Claude Code · OpenAI Codex · Python · SQL Server · dbt · TypeScript/Node · Cloudflare Workers
+
+[LinkedIn](https://www.linkedin.com/in/maurospigolon/) · mauro.spigo@gmail.com · Mendoza, Argentina (GMT-3)
