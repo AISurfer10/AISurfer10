@@ -4,7 +4,7 @@
 
 I help small and mid-sized businesses adopt AI on data they can trust, and I run AI-agent-built systems in production without lying to myself about whether they work.
 
-- **Now:** AI Enablement Lead at a 40-person multi-branch company. Data, logic, metrics, automation, then AI, in that order.
+- **Now:** AI Enablement Lead. Data, logic, metrics, automation, then AI, in that order.
 - **Tamiz:** AI agents on top of the systems a company already runs. Read-only, no migration.
 - **Model evaluation:** nearly 4 years training and evaluating frontier models at Invisible Technologies (~20 RLHF campaigns), Pareto.AI, Abaka AI and micro1.
 - **Agent operations:** I built an autonomous commerce pipeline with Claude Code, reviewed by a second model before every deploy.
